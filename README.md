@@ -2,7 +2,7 @@
 
 An AR app that picks colors from real-world object with hand gesture.
 
-# Platforms
+# Versions
 IOS 14.7.1
 
 # License
